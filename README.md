@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Ani!
 
 
-- 🔥 I have almost 3 years of experience in Backend Development with Node.js (typescript).
+- 🔥 I have 2.5 years of experience in Backend Development with Node.js (typescript).
 - 🔭 I’m currently working on improving my skills.
 - 🌱 I’m currently learning Java and Data Structures.
 - 👯 I’m looking to collaborate on interesting projects using Node.js.
